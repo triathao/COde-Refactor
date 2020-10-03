@@ -20,8 +20,9 @@ body {
     font-size: 60px;
 }
 
+/* chnage "seo" color for better contrast */
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #cf9f18; 
 }
 
 .header div {
